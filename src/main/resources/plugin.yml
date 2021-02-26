@@ -1,0 +1,7 @@
+name: MenuManEp1Test
+version: ${project.version}
+main: com.github.the_h_team.menu_man.ep1test.Ep1Test
+api-version: 1.16
+depend: [ ClansPro ]
+authors: [ Hempfest, ms5984 ]
+description: ${project.description}
