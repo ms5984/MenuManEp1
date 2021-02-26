@@ -2,4 +2,4 @@
 
 Original code in this project available under [MIT License](LICENSE.txt).
 
-Upstream works available under their respective licenses.
+Dependencies available under their respective licenses.
