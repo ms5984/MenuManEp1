@@ -1,4 +1,4 @@
-package com.github.the_h_team.menu_man.ep1test;
+package com.github.sanctum.menu_man.ep1test;
 
 import com.github.ms5984.lib.menuman.Menu;
 import com.github.ms5984.lib.menuman.MenuBuilder;
